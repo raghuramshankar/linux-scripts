@@ -1,2 +1,2 @@
 # linux-scripts
-A collection of linux scripts for improving productivity
+A collection of scripts for improving productivity in linux environments.
