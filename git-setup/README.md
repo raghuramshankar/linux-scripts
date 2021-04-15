@@ -1,2 +1,2 @@
-# Git Setup
+# git-setup
 sh git-setup.sh
