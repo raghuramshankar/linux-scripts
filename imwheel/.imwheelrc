@@ -1,7 +1,11 @@
-"^vivaldi"
-    None, Up, Button4, 8
+"^firefox$"
+    None, Up, Button4, 6
+    None, Down, Button5, 4
+
+"^spotify$"
+    None, Up, Button4, 10
     None, Down, Button5, 8
 
 ".*"
-None, Up, Button4, 1
-None, Down, Button5, 1
+    None, Up, Button4, 3
+    None, Down, Button5, 1
